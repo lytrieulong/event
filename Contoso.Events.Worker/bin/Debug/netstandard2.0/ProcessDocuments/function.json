@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-1.0.6",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "serviceBusTrigger",
+      "connection": "ServiceBusConnectionString",
+      "queueName": "documentqueue",
+      "name": "message"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/Contoso.Events.Worker.dll",
+  "entryPoint": "Contoso.Events.Worker.ProcessDocuments.Run"
+}

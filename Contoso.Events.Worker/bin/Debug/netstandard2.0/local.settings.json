@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storagemodule8;AccountKey=bmBjI3RY+Yc5NWB6bAeuya/SnJhdDzlHCuFT0VomppRT1aS9247k194EEBwHVIlTzhtRgk1ckqp20nD9MNUdPw==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "",
+    "EventsContextConnectionString": "",
+    "ServiceBusConnectionString": "",
+    "CosmosEndpointUrl": "https://nosqlmodule8.documents.azure.com:443/",
+    "CosmosAuthorizationKey": "pa4O9CkmdFozpa6bqH60aK3zJ8Id2cnCQJWXlD5Nwj4g09o2yHHvRNqh356Wv2PcLR5nOj96bRxEQxOxTp1iSQ==",
+    "CosmosDatabaseId": "EventsDatabase.Mod08",
+    "CosmosCollectionId": "RegistrationCollection"
+  }
+}

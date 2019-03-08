@@ -1,0 +1,12 @@
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Data.deps.json
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Data.dll
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Data.pdb
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Models.dll
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\bin\Debug\netstandard2.0\Contoso.Events.Models.pdb
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.csprojAssemblyReference.cache
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.csproj.CoreCompileInputs.cache
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.AssemblyInfoInputs.cache
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.AssemblyInfo.cs
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.csproj.CopyComplete
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.dll
+D:\DATA\AZURE\AZURE\20532 Lab\Allfiles\Mod08\Labfiles\Starter\Contoso.Events.Data\obj\Debug\netstandard2.0\Contoso.Events.Data.pdb
