@@ -13593,11 +13593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.Web\\Contoso.Events.Web.csproj",
+      "projectUniqueName": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.Web\\Contoso.Events.Web.csproj",
       "projectName": "Contoso.Events.Web",
-      "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.Web\\Contoso.Events.Web.csproj",
+      "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.Web\\Contoso.Events.Web.csproj",
       "packagesPath": "C:\\Users\\Longlt\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.Web\\obj\\",
+      "outputPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13616,14 +13616,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.Data\\Contoso.Events.Data.csproj": {
-              "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.Data\\Contoso.Events.Data.csproj"
+            "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.Data\\Contoso.Events.Data.csproj": {
+              "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.Data\\Contoso.Events.Data.csproj"
             },
-            "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
-              "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.Models\\Contoso.Events.Models.csproj"
+            "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
+              "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.Models\\Contoso.Events.Models.csproj"
             },
-            "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj": {
-              "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Starter\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj"
+            "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj": {
+              "projectPath": "D:\\DATA\\AZURE\\AZURE\\20532 Lab\\Allfiles\\Mod08\\Labfiles\\Git\\Starter\\event\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj"
             }
           }
         }
