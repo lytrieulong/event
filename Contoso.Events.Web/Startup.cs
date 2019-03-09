@@ -12,7 +12,9 @@ namespace Contoso.Events.Web
     {
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            Configuration = configuration;   
+
+            /////LONGLT
         }
 
         public IConfiguration Configuration { get; }
